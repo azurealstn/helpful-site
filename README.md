@@ -9,4 +9,4 @@
 ## 기술면접
 
 - [Junior-Back-end-Developer-Concepts]("https://github.com/Lob-dev/Junior-Back-end-Developer-Concepts")
-- [tech-interview-for-developer]("https://github.com/gyoogle/tech-interview-for-developer")# helpful-site
+- [tech-interview-for-developer]("https://github.com/gyoogle/tech-interview-for-developer")
